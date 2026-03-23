@@ -22,10 +22,10 @@ A evolução arquitetural resultou num salto clínico:
 2. **Modelo Proposto YOLO26m:** Rompeu a barreira, atingindo **94,6%** de mAP@0.5 e **88,6%** de recall.
 
 ### Comparativo de Desempenho (mAP@0.5)
-![Gráfico Comparativo](comparativo_TCC_Gabriel.png)
+![Gráfico Comparativo](comparativo_TCC_Gabriel.jpeg)
 
 ### Matrizes de Confusão
-![Matrizes de Confusão](comparativo_matrizes_TCC.png)
+![Matrizes de Confusão](matrizes_comparativo.jpeg)
 
 ### Exemplo de Inferência
 ![Exemplo de Detecção](exemplo_deteccao.png)
