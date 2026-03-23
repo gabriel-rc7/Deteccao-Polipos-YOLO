@@ -17,7 +17,7 @@ Mitigar a taxa de falsos negativos na detecção de pólipos adenomatosos durant
 * **Hardware:** Treinamento realizado em GPU NVIDIA Tesla T4.
 
 ## 📈 Resultados e Discussões
-A evolução arquitetural resultou em um salto clínico:
+A evolução arquitetural resultou num salto clínico:
 1. **Baseline YOLOv8L:** Estagnou em **36,6%** de mAP@0.5 (alto viés conservador).
 2. **Modelo Proposto YOLO26m:** Rompeu a barreira, atingindo **94,6%** de mAP@0.5 e **88,6%** de recall.
 
@@ -31,7 +31,7 @@ A evolução arquitetural resultou em um salto clínico:
 ![Exemplo de Detecção](exemplo_deteccao.png)
 
 ## 🗂️ Reprodutibilidade e Dados Brutos
-Para respeitar o limite de 100MB do GitHub (e evitar arquivos de cache pesados `.pt`), os dados tabulares puros extraídos diretamente do treinamento (`results.csv` originais) foram incluídos na pasta `dados_treinamento`. Eles chancelam as curvas de aprendizado exibidas nos gráficos acima.
+Para respeitar o limite de 100MB do GitHub (e evitar ficheiros de cache pesados `.pt`), os dados tabulares puros extraídos diretamente do treinamento (`results.csv` originais) foram incluídos na pasta `dados_treinamento`. Estes validam as curvas de aprendizado exibidas nos gráficos acima.
 
 ## 👨‍💻 Autor
 * **Gabriel Alberto Vitor Amadeu** - Graduando em Engenharia Elétrica (UniFOA)
