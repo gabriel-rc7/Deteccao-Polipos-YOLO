@@ -34,4 +34,5 @@ A evolução arquitetural resultou num salto clínico:
 Para respeitar o limite de 100MB do GitHub (e evitar ficheiros de cache pesados `.pt`), os dados tabulares puros extraídos diretamente do treinamento (`results.csv` originais) foram incluídos na pasta `dados_treinamento`. Estes validam as curvas de aprendizado exibidas nos gráficos acima.
 
 ## 👨‍💻 Autor
-* **Gabriel Alberto Vitor Amadeu** - Graduando em Engenharia Elétrica (UniFOA)
+* **Gabriel Alberto** - Graduando em Engenharia Elétrica (UniFOA)
+* **Vitor Amadeu** - Professor em Engenharia Elétrica (UniFOA)
